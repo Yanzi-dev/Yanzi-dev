@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Yanzi-dev
-- 👀 I’m interested in too many things
-- 🌱 I’m currently learning to be a good person
-- 💞️ I’m looking to collaborate on cool projects
+- 👋 Hi, I’m @Yanzi-dev software architect/engineer with 16 years of professional experience.
+- 👀 I’m interested in too many things, my curiosity is insatiable.
+- 🌱 I’m currently learning to be a good father.
+- 💞️ I’m looking to collaborate on cool projects.
 - 📫 How to reach me [Twitch](https://twitch.tv/yanzi__) [Twitter](https://twitter.com/Yanziweb)
 
 <!---
